@@ -10,7 +10,6 @@ It supports real-time messaging using Socket.IO and securely stores user data in
 **Server:** Node JS, Express JS
 
 **Database:** Mongo DB
-  
 
 Go to the project directory
 
@@ -60,6 +59,15 @@ Start the Client
 ### View Other user Profile
 
 ### Notifications
+
+## What I Learned
+
+- Implementing JWT-based authentication and protected routes
+- Using Socket.IO for real-time communication
+- Designing MongoDB schemas for chat and message systems
+- Building scalable backend architecture using Express
+- Managing application state in React
+
 
 ## Made By
 
