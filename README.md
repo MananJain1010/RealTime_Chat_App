@@ -10,6 +10,7 @@ It supports real-time messaging using Socket.IO and securely stores user data in
 **Server:** Node.js, Express.js
 
 **Database:** MongoDB
+
 **Authentication:** JWT (JSON Web Tokens) with bcrypt  
 
 ---
