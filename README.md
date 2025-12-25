@@ -5,11 +5,16 @@ Real-Time-Chat is a full-stack real-time chat application built using the MERN s
 It supports real-time messaging using Socket.IO and securely stores user data in MongoDB with encrypted credentials.
 ## Tech Stack
 
-**Client:** React JS
+**Client:** React.js
 
-**Server:** Node JS, Express JS
+**Server:** Node.js, Express.js
 
-**Database:** Mongo DB
+**Database:** MongoDB
+**Authentication:** JWT (JSON Web Tokens) with bcrypt  
+
+---
+
+## Run Locally
 
 Go to the project directory
 
@@ -48,7 +53,7 @@ Start the Client
 
 ### Real Time Chatting with Typing indicators
 
-### One to One chat
+### One-to-One chat
 
 ### Create Group Chats
 
@@ -69,7 +74,7 @@ Start the Client
 - Managing application state in React
 
 
-## Made By
+## Author
 
 - Manan Jain
 
