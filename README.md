@@ -32,7 +32,6 @@ Go to the project directory
 ```bash
   cd RealTime_Chat_App
 ```
-Create a .env file in the backend folder with PORT, MONGO_URI, JWT_SECRET
 
 Install dependencies
 
