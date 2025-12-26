@@ -15,6 +15,16 @@ It supports real-time messaging using Socket.IO and securely stores user data in
 
 ---
 
+## Environment Variables
+
+Create a `.env` file inside the `backend` directory and add the following:
+
+PORT=5000  
+MONGO_URI=your_mongodb_connection_string  
+JWT_SECRET=your_secret_key  
+
+---
+
 ## Run Locally
 
 Go to the project directory
